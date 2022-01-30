@@ -66,13 +66,14 @@ background-color: #fff;
   text-align: center;
 }
 
-/* #shoes img{
+#shoes img{
 width: 80%;
-} */
-
-.shoe-1{
-  width: 70%;
-  margin: 0 auto;
+margin: 0 auto;
 }
+
+#backpacks img{
+  width: 50%;
+  margin: 0 auto;
+  }
 
 
